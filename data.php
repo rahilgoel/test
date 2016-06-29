@@ -1,9 +1,5 @@
 	<?php
 
-// $myfile=fopen(\"data.txt\", \"r\") or die(\"unable to open file\");
-// echo fread($myfile, filesize(\"data.txt\"));
-// fclose($myfile);
-
 $myData="
 <a href=\"/movie/7485-shooter\" title=\"Shooter\"><img class=\"poster shadow\" src=\"https://image.tmdb.org/t/p/w130/wCZv0lNx58sfuLT698RYYJVEeTr.jpg\" alt=\"Shooter\" width=\"130\" height=\"195\"></a>
 <span id=\"sortable_title\">Shooter</span>
